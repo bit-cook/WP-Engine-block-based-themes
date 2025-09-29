@@ -14,9 +14,9 @@ With its clean, minimal design and powerful feature set, Frost enables agencies 
 
 == Changelog ==
 
-= 1.1 - 2025-9-15 =
+= 1.1 - 2025-9-30 =
 
-[Release Notes](https://github.com/wpengine/frost/releases/tag/v1.1
+[Release Notes](https://github.com/wpengine/frost/releases/tag/v1.1)
 
 = 1.0.10 - 2025-3-10 =
 
